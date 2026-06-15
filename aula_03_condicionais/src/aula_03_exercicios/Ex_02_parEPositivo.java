@@ -12,16 +12,16 @@ public class Ex_02_parEPositivo {
 		num = sc.nextInt();
 		
 		if (num % 2 == 0 && num > 0) {
-			System.out.printf("Seu número %d é par & positivo", num);
+			System.out.printf("Seu número %d é par e positivo!", num);
 		}
 		else if (num % 2 != 0 && num > 0) {
-			System.out.printf("Seu número %d é impar & positivo", num);
+			System.out.printf("Seu número %d é impar e positivo!", num);
 		}
 		else if (num % 2 == 0 && num < 0) {
-			System.out.printf("Seu número %d é par & negativo", num);
+			System.out.printf("Seu número %d é par e negativo!", num);
 		}
 		else if (num % 2 != 0 && num < 0) {
-			System.out.printf("Seu número %d é impar & negativo", num);
+			System.out.printf("Seu número %d é impar e negativo!", num);
 		}
 		else {
 			System.out.println("O seu valor é nulo");
