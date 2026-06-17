@@ -19,8 +19,8 @@ public class Ex3 {
 		System.out.println();
 		System.out.println("Elementos da Diagonal Secundaria: ");
 		for(int i=2;i>=0;i--) {
-					System.out.print(mat[2-i][i]+ " ");
-					somaSecundario += mat[2-i][i];
+				System.out.print(mat[2-i][i]+ " ");
+				somaSecundario += mat[2-i][i];
 		}
 		System.out.println();
 		System.out.println("Soma dos Elementos da Diagonal Principal:");
