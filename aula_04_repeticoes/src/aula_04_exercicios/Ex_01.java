@@ -26,5 +26,4 @@ public class Ex_01 {
 		}
 		sc.close();
 	}
-
 }
