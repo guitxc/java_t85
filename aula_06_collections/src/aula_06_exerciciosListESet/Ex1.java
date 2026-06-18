@@ -7,7 +7,7 @@ public class Ex1 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		ArrayList<String> colorsList = new ArrayList<String>();
+		ArrayList<String> colorsList = new ArrayList<>();
 		
 		System.out.println("Digite 5 cores: ");
 		

@@ -7,7 +7,7 @@ public class Ex3 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		Set<Integer> setInteger = new HashSet<Integer>();
+		Set<Integer> setInteger = new HashSet<>();
 		
 		System.out.println("Digite 10 valores inteiros: ");
 		
