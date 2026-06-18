@@ -18,10 +18,9 @@ public class CollectionDeque {
 		
 		System.out.println("A cor Azul ainda esta na fila? " + pilha.contains("Azul"));
 		
-		for (var cor: pilha) {
+		for (var cor: pilha)
 			System.out.println(cor);
-		}
-
+		
 	}
 
 }
